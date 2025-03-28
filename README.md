@@ -1,7 +1,3 @@
-
-
----
-
 ## README.md for ParamReaper
 
 ```markdown
@@ -155,11 +151,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 - **Practical Examples**: Shows basic and advanced commands.
 - **Bug Bounty Focus**: Tips and legal notice tailored for hunters.
 - **Professional Tone**: Balanced with a touch of personality (e.g., "Built with ❤️").
-
-## Next Steps
-
-1. Save the script as `paramreaper.py`.
-2. Save the README as `README.md` in the same directory.
-3. (Optional) Create a GitHub repository, upload the files, and replace `yourusername` in the README with your actual GitHub handle.
-
-Let me know if you’d like to tweak the name or adjust the README further!
