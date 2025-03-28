@@ -1,6 +1,3 @@
-## README.md for ParamReaper
-
-```markdown
 # ParamReaper
 
 **ParamReaper** is a powerful, multi-threaded web application parameter enumeration tool built for bug bounty hunters and security researchers. It crawls websites, extracts parameters from URLs, forms, and JavaScript, guesses hidden parameters, and identifies API endpoints—all while respecting scope and rate limits. Whether you're hunting for XSS, SQLi, or SSRF vulnerabilities, ParamReaper is your go-to tool for uncovering the hidden variables that matter.
