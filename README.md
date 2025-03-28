@@ -23,7 +23,7 @@
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ParamReaper.git
+   git clone https://github.com/s2k7x/ParamReaper.git
    cd ParamReaper
    ```
 2. Install dependencies:
@@ -122,11 +122,6 @@ Contributions are welcome! Please:
 ## Legal Notice
 
 ParamReaper is intended for ethical security research and bug bounty programs. Only use it on targets where you have explicit permission. Respect all applicable laws and program policies.
-
-## Acknowledgments
-
-- Built with ❤️ by [Your Name] for the bug bounty community.
-- Powered by `requests`, `BeautifulSoup`, and `esprima`.
 
 ## License
 
